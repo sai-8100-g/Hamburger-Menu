@@ -1,0 +1,10 @@
+.about-container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-container > img {
+    width: 40%;
+}
